@@ -1,0 +1,7 @@
+dataset/
+model/*.pth
+output/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
