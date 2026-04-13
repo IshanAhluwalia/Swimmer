@@ -1,3 +1,6 @@
+dataset/
+model/
+output/
 __pycache__/
 *.pyc
 *.pyo
